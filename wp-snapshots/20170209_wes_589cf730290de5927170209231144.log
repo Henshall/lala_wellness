@@ -1,0 +1,75 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 2017-02-09 23:11:50
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.1.30
+WORDPRESS:	4.7
+PHP INFO:	7.1.0 | SAPI: apache2handler
+SERVER:		Apache/2.2.31 (Unix) mod_wsgi/3.5 Python/2.7.12 PHP/7.1.0 mod_ssl/2.2.31 OpenSSL/1.0.2j DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.9 Perl/v5.24.0 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 2048M (128M default) 
+MEMORY STACK: 12MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported 
+TABLES: total:13 | filtered:0 | create:13 
+FILTERED: [] 
+SQL CREATED: 20170209_wes_589cf730290de5927170209231144_database.sql 
+SQL FILE SIZE: 653.75KB (669437) 
+SQL FILE TIME: 2017-02-09 23:11:51 
+SQL RUNTIME: 0.03 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  /Users/wes/Desktop/storage/work/wordpress 
+ARCHIVE FILE: 20170209_wes_589cf730290de5927170209231144_archive.zip 
+FILTERS: *OFF* 
+DIRS: not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	24.32MB 
+STATS:	Dirs 169 | Files 1,614 
+SQL ADDED: 20170209_wes_589cf730290de5927170209231144_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 1783
+    [filename] => /Users/wes/Desktop/storage/work/wordpress/wp-snapshots/tmp/20170209_wes_589cf730290de5927170209231144_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 9.37MB 
+ARCHIVE RUNTIME: 2.84 sec. 
+MEMORY STACK: 12MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+Template parsed with new data 
+Complete [/Users/wes/Desktop/storage/work/wordpress/wp-snapshots/tmp/20170209_wes_589cf730290de5927170209231144_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 653.75KB 
+Installer File: 382.97KB 
+Archive File: 9.37MB  
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 3.08 sec.
+PEAK PHP MEMORY USED: 14MB
+DONE PROCESSING => 20170209_wes 2017-02-09 23:11:54
+ 

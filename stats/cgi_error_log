@@ -1,0 +1,79 @@
+20160223T165627: www.lalawellness.ca/wp-cron.php
+WordPress database error Table 'wordpress_fb5ckb35hk.wp_apyo_frm_forms' doesn't exist for query SELECT id, options FROM wp_apyo_frm_forms WHERE  status='trash'  made by do_action_ref_array, call_user_func_array, FrmForm::scheduled_delete, FrmDb::get_results, FrmDb::get_var, FrmAppHelper::check_cache
+
+20160223T171742: www.lalawellness.ca/wp-admin/themes.php
+PHP Warning:  Cannot modify header information - headers already sent by (output started at /hermes/walnaweb01a/b1118/as.lalawellness/wp-content/themes/Divi/functions.php:90) in /hermes/walnaweb01a/b1118/as.lalawellness/wp-includes/option.php on line 820
+PHP Warning:  Cannot modify header information - headers already sent by (output started at /hermes/walnaweb01a/b1118/as.lalawellness/wp-content/themes/Divi/functions.php:90) in /hermes/walnaweb01a/b1118/as.lalawellness/wp-includes/option.php on line 821
+
+20160421T083857: lalawellness.ca/xmlrpc.php
+PHP Warning:  require_once(/hermes/walnaweb01a/b1118/as.lalawellness/wp-content/plugins/jetpack/_inc/lib/tracks/client.php): failed to open stream: No such file or directory in /hermes/walnaweb01a/b1118/as.lalawellness/wp-content/plugins/jetpack/class.jetpack-tracks.php on line 6
+PHP Fatal error:  require_once(): Failed opening required '/hermes/walnaweb01a/b1118/as.lalawellness/wp-content/plugins/jetpack/_inc/lib/tracks/client.php' (include_path='.:/usr/local/lib/php-5.5.22-amd64/lib/php') in /hermes/walna
+20160512T175843: www.lalawellness.ca/index.php
+PHP Warning:  include_once(/hermes/walnaweb01a/b1118/as.lalawellness/wp-content/plugins/coming-soon-by-supsystic/scs.php): failed to open stream: No such file or directory in /hermes/walnaweb01a/b1118/as.lalawellness/wp-settings.php on line 255
+PHP Warning:  include_once(): Failed opening '/hermes/walnaweb01a/b1118/as.lalawellness/wp-content/plugins/coming-soon-by-supsystic/scs.php' for inclusion (include_path='.:/usr/local/lib/php-5.5.22-amd64/lib/php') in /hermes/walnaweb01a/b1118/as.lalawellness/wp-setti
+20160821T164343: www.lalawellness.ca/wp-admin/post.php
+PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 28779 bytes) in /hermes/walnaweb01a/b1118/as.lalawellness/wp-includes/wp-db.php on line 1456
+
+20160821T164428: www.lalawellness.ca/wp-admin/post.php
+PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 28779 bytes) in /hermes/walnaweb01a/b1118/as.lalawellness/wp-includes/wp-db.php on line 1456
+
+20160821T164457: www.lalawellness.ca/wp-admin/post.php
+PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 28779 bytes) in /hermes/walnaweb01a/b1118/as.lalawellness/wp-includes/wp-db.php on line 1456
+
+20160821T164503: www.lalawellness.ca/wp-admin/post.php
+PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 28779 bytes) in /hermes/walnaweb01a/b1118/as.lalawellness/wp-includes/wp-db.php on line 1456
+
+20160821T164547: www.lalawellness.ca/wp-admin/post.php
+PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 28779 bytes) in /hermes/walnaweb01a/b1118/as.lalawellness/wp-includes/wp-db.php on line 1456
+
+20160821T164559: www.lalawellness.ca/wp-admin/post.php
+PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 28779 bytes) in /hermes/walnaweb01a/b1118/as.lalawellness/wp-includes/wp-db.php on line 1456
+
+20160821T164626: www.lalawellness.ca/wp-admin/post.php
+PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 28779 bytes) in /hermes/walnaweb01a/b1118/as.lalawellness/wp-includes/wp-db.php on line 1456
+
+20160821T164713: www.lalawellness.ca/wp-admin/post.php
+PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 28779 bytes) in /hermes/walnaweb01a/b1118/as.lalawellness/wp-includes/wp-db.php on line 1456
+
+20160821T165043: www.lalawellness.ca/wp-admin/post.php
+PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 28779 bytes) in /hermes/walnaweb01a/b1118/as.lalawellness/wp-includes/wp-db.php on line 1456
+
+20160821T165604: www.lalawellness.ca/wp-admin/post.php
+PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 28779 bytes) in /hermes/walnaweb01a/b1118/as.lalawellness/wp-includes/wp-db.php on line 1456
+
+20160821T165734: www.lalawellness.ca/wp-admin/post.php
+PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 28779 bytes) in /hermes/walnaweb01a/b1118/as.lalawellness/wp-includes/wp-db.php on line 1456
+
+20160821T171015: www.lalawellness.ca/wp-admin/post.php
+PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 28779 bytes) in /hermes/walnaweb01a/b1118/as.lalawellness/wp-includes/wp-db.php on line 1456
+
+20160821T171032: www.lalawellness.ca/wp-admin/post.php
+PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 28779 bytes) in /hermes/walnaweb01a/b1118/as.lalawellness/wp-includes/wp-db.php on line 1456
+
+20160821T171624: www.lalawellness.ca/wp-admin/post.php
+PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 39493 bytes) in /hermes/walnaweb01a/b1118/as.lalawellness/wp-includes/post-template.php on line 1742
+
+20160821T183843: www.lalawellness.ca/wp-admin/post.php
+PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 28779 bytes) in /hermes/walnaweb01a/b1118/as.lalawellness/wp-includes/wp-db.php on line 1456
+
+20160824T003731: www.lalawellness.ca/wp-admin/post.php
+PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 28779 bytes) in /hermes/walnaweb01a/b1118/as.lalawellness/wp-includes/wp-db.php on line 1456
+
+20160824T003844: www.lalawellness.ca/wp-admin/post.php
+PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 28779 bytes) in /hermes/walnaweb01a/b1118/as.lalawellness/wp-includes/wp-db.php on line 1456
+
+20160824T004020: www.lalawellness.ca/wp-admin/post.php
+PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 28779 bytes) in /hermes/walnaweb01a/b1118/as.lalawellness/wp-includes/wp-db.php on line 1456
+
+20160926T011822: lalawellness.ca/index.php
+sh: 1: Cannot fork
+
+20161120T003114: lalawellness.ca/wp-content/themes/twentythirteen/author.php
+PHP Fatal error:  Call to undefined function get_header() in /hermes/walnaweb01a/b1118/as.lalawellness/wp-content/themes/twentythirteen/author.php on line 12
+
+20161122T180014: lalawellness.ca/xmlrpc.php
+PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /hermes/walnaweb01a/b1118/as.lalawellness/wp-includes/class-wp-xmlrpc-server.php on line 596
+
+20161206T175733: www.lalawellness.ca/wp-login.php
+PHP Warning:  require_once(/hermes/walnaweb01a/b1118/as.lalawellness/wp-content/plugins/jetpack/_inc/lib/tracks/client.php): failed to open stream: No such file or directory in /hermes/walnaweb01a/b1118/as.lalawellness/wp-content/plugins/jetpack/class.jetpack-tracks.php on line 6
+PHP Fatal error:  require_once(): Failed opening required '/hermes/walnaweb01a/b1118/as.lalawellness/wp-content/plugins/jetpack/_inc/lib/tracks/client.php' (include_path='.:/usr/local/lib/php-5.5.22-amd64/lib/php') in /hermes/walna
