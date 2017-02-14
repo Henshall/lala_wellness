@@ -644,5 +644,6 @@
     "pgcache.bad_behavior_path": "",
     "newrelic": {
         "monitoring_type": "apm"
-    }
+    },
+    "notes.need_empty_fragmentcache": false
 }
