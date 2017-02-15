@@ -16,6 +16,56 @@
    }
 
 
+   @media (min-width: 981px){
+.et_right_sidebar #main-content .container:before {
+    display: none;
+}
+}
+
+   @media (min-width: 981px){
+
+   .et_right_sidebar #left-area {
+
+    position: relative;
+    width: 80%;
+    left: 10%;
+}
+}
+
+   @media (min-width: 981px){
+   .et_pb_gutters3 .et_pb_column_1_2, .et_pb_gutters3.et_pb_row .et_pb_column_1_2 {
+       width: 100%!important;
+   }
+}
+
+
+.et_pb_contact p input, .et_pb_contact p textarea{
+border-radius: 15px!important;
+
+}
+.et_pb_button{
+background-color: #353b41!important;
+color: white!important
+}
+
+.et_pb_button:hover{
+color: #0eb1ed!important
+}
+
+.et_pb_contact_error_text{
+  font-family: 'Delius-Regular'!important;
+
+}
+
+input {
+  font-family: 'Delius-Regular'!important;
+
+}
+
+textarea {
+  font-family: 'Delius-Regular'!important;
+
+}
 
 
    .et_pb_module h4{
@@ -1214,7 +1264,7 @@ max-width: 70%;
 }
 
     .slider {
-        width: 80%;
+        width: 100%;
         margin: 40px auto;
         margin-bottom: 100px!important;
 
@@ -1253,7 +1303,7 @@ max-width: 70%;
          left: 0;
          right: 0;
          width: 70%;
-         height: 30%;
+         height: auto;
          margin: auto;
          font-size: 2vw;
 
