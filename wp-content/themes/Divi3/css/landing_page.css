@@ -474,6 +474,15 @@ template {
  * Add the correct display in IE 10-.
  */
 
+
+
+
+
+
+
+
+
+
 [hidden] {
   display: none;
 }
@@ -606,6 +615,46 @@ width: 100%;
   /* border-style: dashed; */
   font-size: 12px;
 }
+
+@media screen and (max-width: 420px) {
+
+.image{
+  min-width: 1133px!important;
+}
+
+
+
+.image_container{
+  width: 100vw!important;
+
+}
+
+
+
+body{
+  margin:3px;
+
+}
+
+
+
+  .container{
+        min-width: 0px!important;
+        width: 100vw;
+  }
+
+  #logo_leaf{
+
+    min-width: 0px!important;
+    width: 80vw;
+  }
+  .logo_div{
+    min-width: 0px!important;
+    width: 100vw;
+  }
+
+}
+
 
 @media screen and (max-width: 820px) {
 

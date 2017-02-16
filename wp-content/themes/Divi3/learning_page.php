@@ -51,7 +51,7 @@ $is_page_builder_used = et_pb_is_pagebuilder_used( get_the_ID() ); ?>
 
 
   <section class="full-content">
-      <div class="container">
+      <div class="container top_image_fix">
       <div class="col-md-12 padding20 center">
         <div class="banner">
            <img src="http://lalawellness.org/wp-content/themes/Divi3/images/banner-logo.png" alt="" />
@@ -351,7 +351,7 @@ $is_page_builder_used = et_pb_is_pagebuilder_used( get_the_ID() ); ?>
 
 
 
-<section class="">
+<section class="testimonial_section">
     <div class="container">
     <div class="col-md-12">
       <br><br>
