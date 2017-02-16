@@ -87,26 +87,26 @@ $is_page_builder_used = et_pb_is_pagebuilder_used( get_the_ID() ); ?>
 
 <div class="button_div"><br><br>
 
-  <form action="/yoga">
+  <form target="_blank" action="/yoga">
     <input class="button" type="submit" value="Kids Yoga Classes" />
 </form>
-<form action="/learning">
+<form target="_blank" action="/learning">
   <input class="button" type="submit" value="Teacher Resources" />
 </form>
 
 </div>
 <div class="trademark">
   <br>
-  ©2016 Lala wellness
+  ©2016 laLa wellness
 </div>
 <div class="pop_up1">
-  Looking for <br> kids yoga programs <br> for your school or <br> daycare? Click Here!
+  Looking for <br> <a target="_blank" style="color: white;" href="/yoga"><u>kids yoga programs</u></a> <br> for your school or <br> daycare? Click Here!
 
 </div>
 <img class="left " src="http://lalawellness.org/wp-content/uploads/2017/02/laLa-landing-pg-2017-arrow-left.png" alt="" width="300" height="300" />
 
 <div class="pop_up2">
-  Looking for <br>PD and resources <br> for you and your <br> class? Click Here!
+  Looking for <br><a target="_blank" style="color: white;" href="/learning"><u>PD and resources</u></a>  <br> for you and your <br> class? Click Here!
 
 </div>
 <img class="right" src="http://lalawellness.org/wp-content/uploads/2017/02/laLa-landing-pg-2017-arrow-right.png" alt="" width="300" height="300" />

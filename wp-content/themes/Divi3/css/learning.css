@@ -79,6 +79,10 @@ textarea {
    }
 
 
+.et-main-area{
+top: -57px;
+position: relative;
+}
 
 
 
@@ -102,6 +106,16 @@ li a:hover {
   height: 10px;
 
 }
+
+
+
+.head-title{
+
+  margin: 0 0 21px!important;
+}
+
+
+
 
 .subscribe_image{
 text-align: center;
@@ -170,7 +184,7 @@ font-family: 'Delius-Regular', sans-serif;
          /*margin-left: 110px!important;*/
    }
 
-#page-container{
+/*#page-container{
 
   padding-top: 55px!important;
 }
@@ -188,10 +202,9 @@ padding-bottom: 10px!important;
 
 #et-top-navigation{
     margin-top: -46px!important;
-    /* margin-bottom: 10px; */
     margin-right: 40px!important;
     position: relative;
-}
+}*/
 
 
 
@@ -206,8 +219,9 @@ html {
 }
 
 .about{
-  text-align: center;
   font-size: 16px!important;
+  top: -13px;
+  position: relative;
 }
 
 
@@ -218,13 +232,6 @@ body{
   top: -10px;
 }
 
-
-   #logo {
-    max-width: 64%;
-    width: 210px;
-    height: auto;
-    max-height: none!important;
-  }
 
 
 /* Sections
@@ -843,6 +850,11 @@ a:hover{
    text-align:center;
 }
 
+.banner{
+  position: relative;
+top: -13px;
+}
+
 
 .logo img {
     max-width: 220px;
@@ -1266,7 +1278,7 @@ max-width: 70%;
     .slider {
         width: 100%;
         margin: 40px auto;
-        margin-bottom: 100px!important;
+        margin-bottom: 40px!important;
 
     }
 

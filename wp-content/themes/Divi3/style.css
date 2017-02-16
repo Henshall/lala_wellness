@@ -20,10 +20,10 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 font-family: Delius-Regular;
  src: url('Delius-Regular.ttf');
 
-}
+}*/
 
 
-.et_pb_module h4{
+/*.et_pb_module h4{
 font-weight: bold;
 
 }
@@ -31,7 +31,16 @@ font-weight: bold;
 .et_pb_module p{
 font-weight: bold;
 font-size: 15px;
-}*/
+}
+*/
+
+
+
+
+
+
+
+
 
 
 
@@ -99,7 +108,6 @@ legend {
 	background: transparent;
 	font-size: 100%;
 	vertical-align: baseline;
-  font-family: "Open Sans", Arial, sans-serif;
 	font-size: 100%;
 
 }
@@ -508,7 +516,7 @@ blockquote {
 }
 
 #main-content .container {
-	padding-top: 58px;
+	padding-top: 22px;
 }
 
 .et_full_width_page #main-content .container:before,
@@ -14802,7 +14810,13 @@ span.comment_date {
 	.et_pb_section .et_pb_row,
 	.et_pb_section.et_section_specialty .et_pb_row {
 		max-width: 1080px !important;
+
 	}
+
+  #contact .et_pb_row{
+    max-width: 1080px !important;
+    height: 280px;
+  }
 
 /* Blog Module */
 	.et_pb_column_3_8 .et_pb_blog_grid .et_audio_container .mejs-time.mejs-currenttime-container.custom {

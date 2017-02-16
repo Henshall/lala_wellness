@@ -566,19 +566,19 @@ width: 100%;
   left: -168px;
   text-align: center;
   /*border-style: dashed;*/
-  font-size: 12px;
+  font-size: 16px;
 }
 
 .pop_up2{
   z-index: 1000000001;
   position: relative;
-  top: -234px;
+  top: -255px;
   color: white;
   width: 195px;
   left: 94%;
   text-align: center;
   /* border-style: dashed; */
-  font-size: 12px;
+  font-size: 16px;
 }
 
 .left{
@@ -598,7 +598,7 @@ width: 100%;
   width: 9vw;
   height: 43px;
   position: relative;
-  top: -234px;
+  top: -253px;
   color: white;
   /* width: 195px; */
   left: 88%;

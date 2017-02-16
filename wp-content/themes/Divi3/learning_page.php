@@ -52,30 +52,24 @@ $is_page_builder_used = et_pb_is_pagebuilder_used( get_the_ID() ); ?>
 
   <section class="full-content">
       <div class="container">
-      <div class="col-md-12 padding30 center">
+      <div class="col-md-12 padding20 center">
         <div class="banner">
            <img src="http://lalawellness.org/wp-content/themes/Divi3/images/banner-logo.png" alt="" />
-           <p>Teacher Resources</p>
+           <p>Empowering Teachers With Mindful Tools</p>
         </div>
       </div>
     </div>
   </section>
       <div class="container">
-      <div class="col-md-12 padding50">
+      <div class="col-md-12 padding20">
         <div class="row">
-            <div class="col-md-5" id ="about">
-                  <h2  class="hide_small" style = "text-align: center;" >About</h2>
-              <img  class="girl_image hide_large" src="http://lalawellness.org/wp-content/themes/Divi3/images/about-photo2.jpg" alt="" />
-              <img  class="girl_image" src="http://lalawellness.org/wp-content/themes/Divi3/images/about-photo.jpg" alt="" />
 
-            </div>
-          <div class="col-md-7">
+          <div class="col-md-12">
             <div class="about">
-              <h2 class="hide_large" >About</h2>
-              <br class="hide_small">
-              <p class="center about">Welcome to the laLa learning space! As a kids yoga teacher, my time with students is just a small portion of their week. The benefits of yoga and mindfulness are maximized when the adults in their life encourage their practice as part of an everyday routine (even if just for a mindful moment).  That’s what this learning space was created for...Empowering teachers with mindful tools for engaging students and brightening schools. <br>
-  <br>
-  In addition to providing mobile yoga enrichment programs for kids, laLa wellness recognizes the importance of educator learning and well-being, and offers a variety of professional development workshops and resources for teachers.
+              <h2 class="center" >About</h2>
+
+              <p class=" about">  <br>
+  In addition to providing <a target="_blank" href="/yoga">mobile yoga enrichment programs for kids</a>, laLa wellness recognizes the importance of educator learning and well-being, and offers a variety of professional development workshops and resources for teachers.
   <br><br>
   Whether you’d like to learn how to bring yoga and mindfulness into your classroom or want to establish a practice for yourself, we have many different opportunities for you to start planting seeds of self-awareness for a future filled with light!
 
@@ -88,7 +82,7 @@ $is_page_builder_used = et_pb_is_pagebuilder_used( get_the_ID() ); ?>
         </div>
       </div>
     </div>
-    <section class="full-content padding50">
+    <section class="full-content padding20">
         <div class="container">
         <div class="col-md-12">
           <div id="offers" class="row">
@@ -256,7 +250,7 @@ $is_page_builder_used = et_pb_is_pagebuilder_used( get_the_ID() ); ?>
 
 
 
-            <div class="col-md-12 center padding30 offers-top">
+            <div class="col-md-12 center padding20 offers-top">
               <div class="col-md-12 center padding20">
                   <h2 class="center head-title">Subscribe For More </h2>
               </div>
@@ -499,7 +493,7 @@ $is_page_builder_used = et_pb_is_pagebuilder_used( get_the_ID() ); ?>
 
 
 
-<section class="full-content padding30 center">
+<section class="full-content padding20 center">
     <footer class="footer">
         <span>&copy;2016 laLa wellness</span>
   </footer>
