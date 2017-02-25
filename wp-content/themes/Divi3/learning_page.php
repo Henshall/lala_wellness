@@ -8,25 +8,22 @@
   <meta name="description" content="">
   <title>Lala Welness</title>
 <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700' rel='stylesheet' type='text/css'>
-<link rel="stylesheet" type="text/css" href="http://lalawellness.org/wp-content/themes/Divi3/slick/slick.css">
-<link rel="stylesheet" type="text/css" href="http://lalawellness.org/wp-content/themes/Divi3/slick/slick-theme.css">
-<link href="http://lalawellness.org/wp-content/themes/Divi3/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="http://localhost:3338/wp-content/themes/Divi3/slick/slick.css">
+<link rel="stylesheet" type="text/css" href="http://localhost:3338/wp-content/themes/Divi3/slick/slick-theme.css">
+<link href="http://localhost:3338/wp-content/themes/Divi3/css/bootstrap.min.css" rel="stylesheet">
 <script src="https://code.jquery.com/jquery-2.2.0.min.js" type="text/javascript"></script>
-<script src="http://lalawellness.org/wp-content/themes/Divi3/slick/slick.js" type="text/javascript" charset="utf-8"></script>
-  <link href="http://lalawellness.org/wp-content/themes/Divi3/css/learning.css" rel="stylesheet">
-  <link href="http://lalawellness.org/wp-content/themes/Divi3/css/style.css" rel="stylesheet">
-  <script src="http://lalawellness.org/wp-content/themes/Divi3/js/masonry.pkgd.min.js"></script>
-  <script src="http://lalawellness.org/wp-content/themes/Divi3/js/jquery.flexslider-min.js"></script>
-  <script src="http://lalawellness.org/wp-content/themes/Divi3/js/main.js"></script>
-<script src="http://lalawellness.org/wp-content/themes/Divi3/js/bootstrap.min.js"></script>
-<script src="http://lalawellness.org/wp-content/themes/Divi3/js/modernizr.js"></script>
+<script src="http://localhost:3338/wp-content/themes/Divi3/slick/slick.js" type="text/javascript" charset="utf-8"></script>
+  <link href="http://localhost:3338/wp-content/themes/Divi3/css/learning.css" rel="stylesheet">
+  <link href="http://localhost:3338/wp-content/themes/Divi3/css/style.css" rel="stylesheet">
+  <script src="http://localhost:3338/wp-content/themes/Divi3/js/masonry.pkgd.min.js"></script>
+  <script src="http://localhost:3338/wp-content/themes/Divi3/js/jquery.flexslider-min.js"></script>
+  <script src="http://localhost:3338/wp-content/themes/Divi3/js/main.js"></script>
+<script src="http://localhost:3338/wp-content/themes/Divi3/js/bootstrap.min.js"></script>
+<script src="http://localhost:3338/wp-content/themes/Divi3/js/modernizr.js"></script>
 
 <!-- Scripts needs for menu functionality: -->
- <!-- <script src="http://lalawellness.org/wp-content/themes/Divi3/js/custom.js?ver=3.0.22" type="text/javascript" charset="utf-8"></script>
-<script src="http://lalawellness.org/wp-content/themes/Divi3/includes/builder/scripts/frontend-builder-global-functions.js?ver=3.0.22" type="text/javascript" charset="utf-8"></script> -->
-</head>
-
-
+ <!-- <script src="http://localhost:3338/wp-content/themes/Divi3/js/custom.js?ver=3.0.22" type="text/javascript" charset="utf-8"></script>
+<script src="http://localhost:3338/wp-content/themes/Divi3/includes/builder/scripts/frontend-builder-global-functions.js?ver=3.0.22" type="text/javascript" charset="utf-8"></script> -->
 
 
 
@@ -50,11 +47,11 @@ $is_page_builder_used = et_pb_is_pagebuilder_used( get_the_ID() ); ?>
   <div class="wrapper">
 
 
-  <section class="full-content">
+  <section class="full-content full-content_fix">
       <div class="container top_image_fix">
       <div class="col-md-12 padding20 center">
         <div class="banner">
-           <img src="http://lalawellness.org/wp-content/themes/Divi3/images/banner-logo.png" alt="" />
+           <img src="http://localhost:3338/wp-content/themes/Divi3/images/banner-logo.png" alt="" />
            <p>Empowering Teachers With Mindful Tools</p>
         </div>
       </div>
@@ -65,7 +62,7 @@ $is_page_builder_used = et_pb_is_pagebuilder_used( get_the_ID() ); ?>
         <div class="row">
 
           <div class="col-md-12">
-            <div class="about">
+            <div id="about" class="about">
               <h2 class="center" >About</h2>
 
               <p class=" about">  <br>
@@ -104,12 +101,12 @@ $is_page_builder_used = et_pb_is_pagebuilder_used( get_the_ID() ); ?>
             </div>
             <hr />
             <div class="col-md-12 center padding20">
-                <h2 class="center head-title">Teaching</h2>
+                <h2 class="center head-title">Workshops</h2>
             </div>
               <div class="col-md-4">
               <div class="offer-box center">
                 <div class="offer-boximg">
-                  <img src="http://lalawellness.org/wp-content/themes/Divi3/images/kids.jpg" alt="" />
+                  <img src="http://localhost:3338/wp-content/themes/Divi3/images/kids.jpg" alt="" />
                 </div>
                 <div class="offer-boxinner center">
                     <div class="offer-dec teaching">
@@ -126,7 +123,7 @@ $is_page_builder_used = et_pb_is_pagebuilder_used( get_the_ID() ); ?>
             <div class="col-md-4">
                 <div class="offer-box center">
                 <div class="offer-boximg">
-                  <img src="http://lalawellness.org/wp-content/themes/Divi3/images/bowl.jpg" alt="" />
+                  <img src="http://localhost:3338/wp-content/themes/Divi3/images/bowl.jpg" alt="" />
                 </div>
                 <div class="offer-boxinner center">
                     <div class="offer-dec teaching">
@@ -143,14 +140,14 @@ $is_page_builder_used = et_pb_is_pagebuilder_used( get_the_ID() ); ?>
             <div class="col-md-4">
                 <div class="offer-box center right_center_fix">
                 <div class="offer-boximg">
-                  <img src="http://lalawellness.org/wp-content/themes/Divi3/images/hands.jpg" alt="" />
+                  <img src="http://localhost:3338/wp-content/themes/Divi3/images/hands.jpg" alt="" />
                 </div>
                 <div class="offer-boxinner center">
                     <div class="offer-dec teaching">
                       <h5>Yoga & Mindfulness for Educators</h5>
 
                     <p>
-                      Discover how yoga & mindfulness can relieve stress, burnout and anxiety by helping you better manage the complex demands of your role as a teacher. Engage in personal reflection to effectively deal with stress and negativity.
+                      Discover how yoga & mindfulness can relieve stress, burnout and anxiety by helping you better manage the complex demands of life. Engage in personal reflection to effectively deal with stress and negativity.
                     </p>
                   </div>
                   <a class="enroll-button" href="/calendar">View Upcoming Classes</a>
@@ -165,10 +162,10 @@ $is_page_builder_used = et_pb_is_pagebuilder_used( get_the_ID() ); ?>
                 <h2 class="center head-title">Free Online Training!</h2>
             </div>
 
-            <div class="col-md-4 col-mindful right_25">
-                <div class="offer-box center">
-                <div class="offer-boximg">
-                  <img src="http://lalawellness.org/wp-content/themes/Divi3/images/notebook.jpg" alt="" />
+            <div class="col-md-4 classroom_resources online  spiral">
+                <div class="offer-box">
+                <div class="offer-boximg center">
+                  <img src="http://localhost:3338/wp-content/themes/Divi3/images/spiral.jpg" alt="" />
                 </div>
                 <div class="offer-boxinner center">
                     <div class="offer-dec note">
@@ -183,6 +180,28 @@ $is_page_builder_used = et_pb_is_pagebuilder_used( get_the_ID() ); ?>
               </div>
             </div>
 
+            <div class="col-md-4 classroom_resources online   spiral">
+                <div class="offer-box ">
+                <div class="offer-boximg center">
+                  <img src="http://localhost:3338/wp-content/themes/Divi3/images/fb_group.jpg" alt="" />
+                </div>
+                <div class="offer-boxinner center">
+                    <div class="offer-dec note">
+                      <h5>Mindful Mornings for Educators</h5>
+
+                    <p>
+                      Connect with other mindful teachers & be supported in your yoga and mindfulness practice (both for you and your students)
+                    </p>
+                  </div>
+                  <a class="enroll-button" href="https://mindfulmornings.lalalearning.ca/get-checklist">Join the Group</a>
+                  </div>
+              </div>
+            </div>
+
+
+
+
+
 
             <div class="clear30"></div>
             <hr />
@@ -193,7 +212,7 @@ $is_page_builder_used = et_pb_is_pagebuilder_used( get_the_ID() ); ?>
             <div class="col-md-4">
               <div class="offer-box center">
                 <div class="offer-boximg">
-                  <img style="width: 44vw;" src="http://lalawellness.org/wp-content/themes/Divi3/images/notes.jpg" alt="" />
+                  <img style="width: 44vw;" src="http://localhost:3338/wp-content/themes/Divi3/images/notes.jpg" alt="" />
                 </div>
                 <div class="offer-boxinner center">
                     <div class="offer-dec classroom_resources">
@@ -210,7 +229,7 @@ $is_page_builder_used = et_pb_is_pagebuilder_used( get_the_ID() ); ?>
             <div class="col-md-4">
                 <div class="offer-box center ">
                 <div class="offer-boximg">
-                  <img src="http://lalawellness.org/wp-content/themes/Divi3/images/yoga.jpg" alt="" />
+                  <img src="http://localhost:3338/wp-content/themes/Divi3/images/yoga.jpg" alt="" />
                 </div>
                 <div class="offer-boxinner center">
                     <div class="offer-dec classroom_resources">
@@ -227,7 +246,7 @@ $is_page_builder_used = et_pb_is_pagebuilder_used( get_the_ID() ); ?>
             <div class="col-md-4">
                 <div class="offer-box center  center_fix_left">
                 <div class="offer-boximg">
-                  <img src="http://lalawellness.org/wp-content/themes/Divi3/images/coming.jpg" alt="" />
+                  <img src="http://localhost:3338/wp-content/themes/Divi3/images/coming.jpg" alt="" />
                 </div>
                 <div class="offer-boxinner center">
                     <div class="offer-dec classroom_resources">
@@ -237,7 +256,7 @@ $is_page_builder_used = et_pb_is_pagebuilder_used( get_the_ID() ); ?>
                       Wanting to share yoga with your kids but not sure where to start? Access the laLa class plans to help you get started!
                     </p>
                   </div>
-                  <a class="enroll-button" href="#">I want this!</a>
+                  <a class="enroll-button" href="#">Coming Soon</a>
                   </div>
               </div>
             </div>
@@ -254,7 +273,7 @@ $is_page_builder_used = et_pb_is_pagebuilder_used( get_the_ID() ); ?>
               <div class="col-md-12 center padding20">
                   <h2 class="center head-title">Subscribe For More </h2>
               </div>
-              <img class="subscribe_image" src="http://lalawellness.org/wp-content/themes/Divi3/images/about-photo2.jpg" alt="" />
+              <img class="subscribe_image" src="http://localhost:3338/wp-content/themes/Divi3/images/about-photo2.jpg" alt="" />
               <p>Love what you see and excited for more? <br> Subscribe to be the first to know when new resources and workshops become available!
               <br><br>
 
@@ -352,7 +371,7 @@ $is_page_builder_used = et_pb_is_pagebuilder_used( get_the_ID() ); ?>
 
 
 <section class="testimonial_section">
-    <div class="container">
+    <div class="container padding_fix">
     <div class="col-md-12">
       <br><br>
         <h2 id = 'testimonials' class="center head-title" style="color:#333;">Testimonials</h2>
@@ -373,8 +392,7 @@ $is_page_builder_used = et_pb_is_pagebuilder_used( get_the_ID() ); ?>
 
           <div>
             <div class="slider_text">
-              “Thank you so much for the amazing workshop at the Lifelong Learning Conference… It was just so refreshing and wonderful to go through the self-reflection process.”
-
+              “All of your poses and tips were so helpful and my children loved it… now asking me when I’m going to do yoga again!”
             </div>
             <br>
             <div class="slider_author">
@@ -393,7 +411,16 @@ $is_page_builder_used = et_pb_is_pagebuilder_used( get_the_ID() ); ?>
             <div class="slider_author">
                Adrianne S. Intro to All Things Kids Yoga Participant
             </div>
+          </div>
 
+
+          <div>
+            <div class="slider_text">
+“Today was a wonderful experience as I was able to explore different poses and re-introduce and awaken muscles I haven’t used in a while.”            </div>
+            <br>
+            <div class="slider_author">
+               Sonia Barrett, Yoga & Mindfulness for Self Care Participant
+            </div>
           </div>
 
 
@@ -419,23 +446,27 @@ $is_page_builder_used = et_pb_is_pagebuilder_used( get_the_ID() ); ?>
           </div>
           <div>
             <div class="slider_text">
-                      “If you ever have a chance to go to one of Lisa’s workshops or bring her to your school or centre, jump on that opportunity! The level of engagement was unprecedented.”
-            </div>
+              “If you ever have a chance to go to one of Lisa’s workshops or bring her to your school or centre, jump on that opportunity!”            </div>
             <br>
             <div class="slider_author">Shannon Andrews, BA, BEd, OCT
             </div>
 
           </div>
+          <div>
+            <div class="slider_text">
+              “The impact on my class was undeniable. My students were so much more calm and able to work through problems… The level of engagement was unprecedented.”            <br>
+            <div class="slider_author">Shannon Andrews, BA, BEd, OCT
+            </div>
 
+          </div>
 
+        </div>
 
           <div>
             <div class="slider_text">
-              “The benefits that I received through Lisa’s teachings were to be more aware and take
-                             the time needed to recharge, which helps me be my best both as an individual and as an
-                              educator for the children.       </div>
+        “The impact on my class was undeniable. My students were so much more calm and able to work through problems… The level of engagement was unprecedented.”     </div>
 
-            <div class="slider_author">  Marisa Naccarrato, RECE
+            <div class="slider_author">  <br> Marisa Naccarrato, RECE
             </div>
 
           </div>
@@ -469,7 +500,7 @@ $is_page_builder_used = et_pb_is_pagebuilder_used( get_the_ID() ); ?>
 
 
 
-        <!-- <form class="et_pb_contact_form clearfix" method="post" action="http://lalawellness.org/yoga/">
+        <!-- <form class="et_pb_contact_form clearfix" method="post" action="http://localhost:3338/yoga/">
            <p class="et_pb_contact_field et_pb_contact_field_3 et_pb_contact_field_half">
       <label for="et_pb_contact_name_1" class="et_pb_contact_form_label">Name</label>
       <input type="text" id="et_pb_contact_name_1" class="input" value="Name" name="et_pb_contact_name_1" data-required_mark="required" data-field_type="input" data-original_id="name">
@@ -529,4 +560,10 @@ $is_page_builder_used = et_pb_is_pagebuilder_used( get_the_ID() ); ?>
           variableWidth: true
         });
       });
+    </script>
+
+
+    <script type="text/javascript">
+    jQuery(".et_pb_contact_submit").text("I can’t wait!");
+
     </script>

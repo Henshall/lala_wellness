@@ -17,15 +17,64 @@
 
 
 
+   /*@media only screen and  (max-width:420px)  {
+     #sfsi_plus_floater{
+     display: none;
+     }
+}*/
 
-   @media (max-width: 981px){
+   /*@media only screen and  (max-width:420px)  {
+     #sfsi_plus_floater{
+       display: none;
+     margin-top: 94px!important;
+     }
+}*/
+
+
+/*@media only screen and (max-width:768px) and (min-width:420px)  {
+  #sfsi_plus_floater{
+  margin-top: -59px!important;
+  }
+}*/
+
+   /*@media only screen and (max-width:981px) and (min-width:768px)  {
+     #sfsi_plus_floater{
+     margin-top: 0px!important;
+     }
+}*/
+
+
+@media screen and (max-width: 981px) {
+  .top_image_fix{
+    padding-top: 100px!important;
+    padding-bottom: 17px!important;
+  }
+}
+
+
+@media  (min-width: 981px){
+
+.top_image_fix{
+  padding-top: 66px!important;
+  padding-bottom: 20px!important;
+}
+
+/*#sfsi_plus_floater{
+margin-top: 75px!important;
+
+}*/
+
+
+}
+
+
+
+   @media  (max-width: 981px){
    #main-content .container {
   padding-top: 50px;
   }
 
-  .top_image_fix{
-    padding-top: 75px!important;
-  }
+
 }
 
 
@@ -231,7 +280,7 @@ html {
 
 .about{
   font-size: 16px!important;
-  top: -13px;
+  top: -11px;
   position: relative;
 }
 
@@ -1007,8 +1056,38 @@ hr{clear:both;}
     margin: 0 auto;
 }
 
-9
-@media only screen and (max-width:991px) {
+
+@media (min-width: 992px){
+.col-md-6 {
+    width: 33%!important;
+    position: relative!important;
+    left: 17%!important;
+}
+
+  .online{
+    left: 18%;
+  }
+
+}
+
+@media (min-width: 768px) and (max-width: 992px){
+.col-md-6 {
+    width: 45%!important;
+    position: relative!important;
+    left: 17%!important;
+}
+}
+
+
+@media only screen and (min-width:996px) {
+
+.full-content_fix{
+top: 11px!important;
+position: relative!important;
+}
+}
+
+@media only screen and (max-width:992px) {
 .col-md-4 {
     float: left;
     width: 50%;
@@ -1318,7 +1397,7 @@ max-width: 70%;
 
 .slick-prev:before, .slick-next:before {
     font-family: 'slick';
-    font-size: 27px!important;
+    font-size: 45px!important;
     width: 40px;
 
 }
@@ -1331,7 +1410,7 @@ max-width: 70%;
     }
 
     .slick-initialized {
-      height: 150px!important;
+      height: 160px!important;
     }
 
     .slick-slide {

@@ -87,7 +87,7 @@ $is_page_builder_used = et_pb_is_pagebuilder_used( get_the_ID() ); ?>
 
 <div class="button_div"><br><br>
 
-  <form target="_blank" action="/yoga">
+  <form target="_blank" action="/kidsyoga">
     <input class="button" type="submit" value="Kids Yoga Classes" />
 </form>
 <form target="_blank" action="/learning">
@@ -100,7 +100,7 @@ $is_page_builder_used = et_pb_is_pagebuilder_used( get_the_ID() ); ?>
   ©2016 laLa wellness
 </div>
 <div class="pop_up1">
-  Looking for <br> <a target="_blank" style="color: white;" href="/yoga"><u>kids yoga programs</u></a> <br> for your school or <br> daycare? Click Here!
+  Looking for <br> <a target="_blank" style="color: white;" href="/kidsyoga"><u>kids yoga programs</u></a> <br> for your school or <br> daycare? Click Here!
 
 </div>
 <img class="left " src="http://lalawellness.org/wp-content/uploads/2017/02/laLa-landing-pg-2017-arrow-left.png" alt="" width="300" height="300" />
