@@ -218,6 +218,48 @@ $is_page_builder_used = et_pb_is_pagebuilder_used( get_the_ID() ); ?>
 
 
 
+                        <div class="clear30"></div>
+                        <hr />
+
+                        <div class="col-md-12 center padding20">
+                            <h2 class="center head-title">Free Online Training!</h2>
+                        </div>
+
+                        <div class="col-md-4 classroom_resources online  spiral">
+                            <div class="offer-box">
+                            <div class="offer-boximg center">
+                              <img src="http://localhost:3338/wp-content/themes/Divi3/images/spiral.jpg" alt="" />
+                            </div>
+                            <div class="offer-boxinner center">
+                                <div class="offer-dec note">
+                                  <h5>Mindful Mornings for Educators</h5>
+
+                                <p>
+                                  A 5 Step Checklist that will change the way you approach mornings and make for brighter, more resilient days.
+                                </p>
+                              </div>
+                              <a class="enroll-button" href="https://mindfulmornings.lalalearning.ca/get-checklist">I want this!</a>
+                              </div>
+                          </div>
+                        </div>
+
+                        <div class="col-md-4 classroom_resources online   spiral">
+                            <div class="offer-box ">
+                            <div class="offer-boximg center">
+                              <img src="http://localhost:3338/wp-content/themes/Divi3/images/fb_group.jpg" alt="" />
+                            </div>
+                            <div class="offer-boxinner center">
+                                <div class="offer-dec note">
+                                  <h5>Mindful Mornings for Educators</h5>
+
+                                <p>
+                                  Connect with other mindful teachers & be supported in your yoga and mindfulness practice (both for you and your students)
+                                </p>
+                              </div>
+                              <a class="enroll-button" href="https://mindfulmornings.lalalearning.ca/get-checklist">Join the Group</a>
+                              </div>
+                          </div>
+                        </div>
 
 
 
