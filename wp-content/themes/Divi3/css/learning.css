@@ -15,7 +15,10 @@
 
    }
 
+.open_sans{
+font-family: 'Open Sans'!important;
 
+}
 
    /*@media only screen and  (max-width:420px)  {
      #sfsi_plus_floater{
@@ -1395,6 +1398,7 @@ max-width: 70%;
 
 /*SLIDER*/
 
+
 .slick-prev:before, .slick-next:before {
     font-family: 'slick';
     font-size: 45px!important;
@@ -1405,7 +1409,7 @@ max-width: 70%;
     .slider {
         width: 100%;
         margin: 40px auto;
-        margin-bottom: 40px!important;
+        margin-bottom: 55px!important;
 
     }
 
@@ -1415,6 +1419,7 @@ max-width: 70%;
 
     .slick-slide {
       margin: 0px 20px;
+      height: 110%!important;
     }
 
     .slick-slide img {

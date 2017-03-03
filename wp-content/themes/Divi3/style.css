@@ -1,5 +1,27 @@
 
 
+@font-face {
+font-family: Open Sans;
+ src: url('Open Sans.ttf');
+
+}
+
+@font-face {
+font-family: Delius-Regular;
+ src: url('Delius-Regular.ttf');
+
+}
+
+.open_sans{
+font-family: 'Open Sans'!important;
+
+}
+
+.cal-title{
+
+  font-family: 'Delius-Regular'!important;
+}
+
 
   @media only screen and  (max-width:420px) and  (min-width:1px)  {
     #sfsi_plus_floater{
@@ -70,8 +92,8 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 
 /*@font-face {
-font-family: Delius-Regular;
- src: url('Delius-Regular.ttf');
+font-family: Open Sans;
+ src: url('Open Sans.ttf');
 
 }*/
 
@@ -225,7 +247,7 @@ section {
 body {
 	color: #666;
 	background-color: #fff;
-  font-family: 'Delius-Regular', sans-serif;
+  font-family: 'Open Sans', sans-serif;
 	font-size: 14px;
 	font-weight: 500;
 	-webkit-font-smoothing: antialiased;
@@ -287,7 +309,7 @@ i {
 pre,
 code {
 	margin-bottom: 10px;
-  font-family: 'Delius-Regular', sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 
 ins {
@@ -1904,7 +1926,7 @@ span.et_close_search_field:after {
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
-  font-family: 'Delius-Regular', sans-serif;
+  font-family: 'Open Sans', sans-serif;
 	font-size: 32px;
 	font-weight: normal;
 	font-variant: normal;
@@ -2039,7 +2061,7 @@ body.single .et_audio_content {
 	display: block;
 	float: right;
 	margin: 8px auto 0;
-  font-family: 'Delius-Regular', sans-serif;
+  font-family: 'Open Sans', sans-serif;
 	cursor: pointer;
 }
 
@@ -2280,7 +2302,7 @@ table.cart td.actions .checkout-button {
 	border-radius: 5px;
 	color: #666!important;
 	background-color: #ececec;
-  font-family: 'Delius-Regular', sans-serif;
+  font-family: 'Open Sans', sans-serif;
 	font-size: 12px;
 	font-weight: 500;
 }
@@ -2757,7 +2779,7 @@ div.pp_overlay {
 	position: absolute;
 	top: 0;
 	right: 0;
-  font-family: 'Delius-Regular', sans-serif;
+  font-family: 'Open Sans', sans-serif;
 	font-size: 16px;
 	font-weight: 800;
 	content: "3";
@@ -3870,7 +3892,7 @@ ul.et_pb_side_nav .side_nav_item a.active {
 .et_slide_menu_top button#searchsubmit_header:before,
 .et_slide_in_menu_container #mobile_menu_slide .et_mobile_menu_arrow:before,
 .et_toggle_slide_menu:after {
-  font-family: 'Delius-Regular', sans-serif;
+  font-family: 'Open Sans', sans-serif;
 	font-weight: normal;
 	font-variant: normal;
 	-webkit-font-smoothing: antialiased;
@@ -7095,7 +7117,7 @@ p.et_pb_gallery_caption {
 }
 
 .et_pb_video_play:before {
-  font-family: 'Delius-Regular', sans-serif;
+  font-family: 'Open Sans', sans-serif;
 	content: "\49";
 }
 
@@ -8884,7 +8906,7 @@ a.et_pb_more_button:after,
 	position: absolute;
 	top: 0;
 	right: 0;
-  font-family: 'Delius-Regular', sans-serif;
+  font-family: 'Open Sans', sans-serif;
 	font-size: 16px;
 	font-weight: 800;
 	content: "3";
@@ -15857,7 +15879,7 @@ span.comment_date {
 	width: 28px;
 	margin-top: -3px;
 	color: #974df3 !important;
-  font-family: 'Delius-Regular', sans-serif;
+  font-family: 'Open Sans', sans-serif;
 	font-size: 30px !important;
 	content: "\e625";
 }

@@ -6,8 +6,12 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="">
-  <title>Lala Welness</title>
-<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700' rel='stylesheet' type='text/css'>
+  <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+  <title>laLa wellness | yoga and mindfulness for children and educators
+</title>
+
+<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+
 <link rel="stylesheet" type="text/css" href="http://localhost:3338/wp-content/themes/Divi3/slick/slick.css">
 <link rel="stylesheet" type="text/css" href="http://localhost:3338/wp-content/themes/Divi3/slick/slick-theme.css">
 <link href="http://localhost:3338/wp-content/themes/Divi3/css/bootstrap.min.css" rel="stylesheet">
@@ -52,7 +56,7 @@ $is_page_builder_used = et_pb_is_pagebuilder_used( get_the_ID() ); ?>
       <div class="col-md-12 padding20 center">
         <div class="banner">
            <img src="http://localhost:3338/wp-content/themes/Divi3/images/banner-logo.png" alt="" />
-           <p>Empowering Teachers With Mindful Tools</p>
+           <p style="font-size: 26px;">Mindful Education for Teachers with <img src="http://localhost:3338/wp-content/uploads/2016/03/2764.png" style="width: 25px;"></p>
         </div>
       </div>
     </div>
@@ -63,15 +67,17 @@ $is_page_builder_used = et_pb_is_pagebuilder_used( get_the_ID() ); ?>
 
           <div class="col-md-12">
             <div id="about" class="about">
-              <h2 class="center" >About</h2>
+              <h2 style="margin: 0 0 4px;"class="center" >Are you ready to plant some seeds?</h2>
 
-              <p class=" about">  <br>
+              <p class=" about open_sans">  <br>
+                Your students deserve learning experiences that engage them, inspire their creativity and teach them resiliency. So do you :)
+
+  <br><br>
   In addition to providing <a target="_blank" href="/yoga">mobile yoga enrichment programs for kids</a>, laLa wellness recognizes the importance of educator learning and well-being, and offers a variety of professional development workshops and resources for teachers.
+
+
   <br><br>
   Whether you’d like to learn how to bring yoga and mindfulness into your classroom or want to establish a practice for yourself, we have many different opportunities for you to start planting seeds of self-awareness for a future filled with light!
-
-  <br><br>
-  Your students deserve learning experiences that engage them, inspire their creativity and teach them resiliency. So do you :) Are you ready to plant some seeds?
 
               </p>
             </div>
@@ -85,23 +91,36 @@ $is_page_builder_used = et_pb_is_pagebuilder_used( get_the_ID() ); ?>
           <div id="offers" class="row">
               <h2  class="center head-title"><b style= "font-size: 32px;">laLa Training and Resources</b></h2>
 
-            <div class="col-md-12 center padding30 offers-top">
-                <h2 class="center head-title">Professional Development Workshops</h2>
+            <div class="col-md-12 center offers-top">
+                <h2 style="margin: 0 0 13px!important;" class="center head-title">
+                  Professional Development Workshops</h2>
               <!-- <img src="images/wellness-banner.png" alt="" /> -->
-              <p>laLa wellness offers professional development workshops for ECEs and school teachers. All workshops were created with both Ontario's Pedagogy for the Early Years: How Does Learning Happen? and Ontario's H&PE Curriculum in mind, and can be tailored to meet the needs of your organization.</p>
-              <br><p>For booking inquiries, <u><a style="color: white;" href="/yoga/#contact">click here</a> </u> or call Lisa at <strong>416.562.4408</strong></p>
-              <p>To see upcoming professional development workshops in the Greater Toronto Area, visit the laLa Training Calendar</p>
+              <p class="open_sans">
+
+                laLa wellness offers professional development workshops for ECEs
+                and school teachers. All workshops were created with both Ontario's
+                Pedagogy for the Early Years: How Does Learning Happen? and Ontario's
+                H&PE Curriculum in mind, and can be tailored to meet the needs of your
+                organization.
+              <br> <br>
+              <!-- For booking inquiries, <u><a class="open_sans" style="color: white;" href="/yoga/#contact">
+              click here</a> </u> or call Lisa at <strong>416.562.4408</strong>
               <br><br>
+              To see upcoming professional development workshops in the Greater
+              Toronto Area, visit the laLa Training Calendar
+              <br><br><br>
+
+            </p>
               <div class="button_holder">
                 <a class="enroll-button" href="/calendar">Training Calendar</a>
-
-              </div>
-
-
+                <br>
+              </div> -->
             </div>
-            <hr />
+            <!-- <hr /> -->
+
+
             <div class="col-md-12 center padding20">
-                <h2 class="center head-title">Workshops</h2>
+                <!-- <h2 class="center head-title">Workshops</h2> -->
             </div>
               <div class="col-md-4">
               <div class="offer-box center">
@@ -112,7 +131,7 @@ $is_page_builder_used = et_pb_is_pagebuilder_used( get_the_ID() ); ?>
                     <div class="offer-dec teaching">
                       <h5>Teaching Kids Yoga</h5>
 
-                    <p>
+                    <p class="open_sans">
                       Learn the most popular yoga poses, breathing games and relaxations for children of all ages, and create 'yoga moments' for your classroom. Workshops are tailored towards varying age groups from Toddler to School Age
                     </p>
                   </div>
@@ -129,7 +148,7 @@ $is_page_builder_used = et_pb_is_pagebuilder_used( get_the_ID() ); ?>
                     <div class="offer-dec teaching">
                       <h5>Teaching Kids Mindfulness</h5>
 
-                    <p>
+                    <p class="open_sans">
                       Learn the language of mindfulness for kids, and how to apply mindfulness in classroom routines through games and activities for children. Workshops are tailored towards varying age groups from Preschool to School Age
                     </p>
                   </div>
@@ -146,7 +165,7 @@ $is_page_builder_used = et_pb_is_pagebuilder_used( get_the_ID() ); ?>
                     <div class="offer-dec teaching">
                       <h5>Yoga & Mindfulness for Educators</h5>
 
-                    <p>
+                    <p class="open_sans">
                       Discover how yoga & mindfulness can relieve stress, burnout and anxiety by helping you better manage the complex demands of life. Engage in personal reflection to effectively deal with stress and negativity.
                     </p>
                   </div>
@@ -155,48 +174,91 @@ $is_page_builder_used = et_pb_is_pagebuilder_used( get_the_ID() ); ?>
               </div>
             </div>
 
-            <div class="clear30"></div>
-            <hr />
 
-            <div class="col-md-12 center padding20">
-                <h2 class="center head-title">Free Online Training!</h2>
-            </div>
 
-            <div class="col-md-4 classroom_resources online  spiral">
-                <div class="offer-box">
-                <div class="offer-boximg center">
-                  <img src="http://localhost:3338/wp-content/themes/Divi3/images/spiral.jpg" alt="" />
-                </div>
-                <div class="offer-boxinner center">
-                    <div class="offer-dec note">
-                      <h5>Mindful Mornings for Educators</h5>
 
-                    <p>
-                      A 5 Step Checklist that will change the way you approach mornings and make for brighter, more resilient days.
-                    </p>
-                  </div>
-                  <a class="enroll-button" href="https://mindfulmornings.lalalearning.ca/get-checklist">I want this!</a>
-                  </div>
-              </div>
-            </div>
 
-            <div class="col-md-4 classroom_resources online   spiral">
-                <div class="offer-box ">
-                <div class="offer-boximg center">
-                  <img src="http://localhost:3338/wp-content/themes/Divi3/images/fb_group.jpg" alt="" />
-                </div>
-                <div class="offer-boxinner center">
-                    <div class="offer-dec note">
-                      <h5>Mindful Mornings for Educators</h5>
 
-                    <p>
-                      Connect with other mindful teachers & be supported in your yoga and mindfulness practice (both for you and your students)
-                    </p>
-                  </div>
-                  <a class="enroll-button" href="https://mindfulmornings.lalalearning.ca/get-checklist">Join the Group</a>
-                  </div>
-              </div>
-            </div>
+
+
+                        <hr style="visibility:hidden;" />
+                        <div class="col-md-12 center padding20">
+
+
+
+
+                            <div class="col-md-12 center offers-top">
+                                <h2 style="margin: 0 0 13px!important;" class="center head-title">
+                                </h2>
+                              <!-- <img src="images/wellness-banner.png" alt="" /> -->
+                              <p class="open_sans">
+
+                              For booking inquiries, <u><a class="open_sans" style="color: white;" href="/yoga/#contact">
+                              click here</a> </u> or call Lisa at <strong>416.562.4408</strong>
+                              <br><br>
+                              To see upcoming professional development workshops in the Greater
+                              Toronto Area, visit the laLa Training Calendar
+                              <br><br><br>
+
+                            </p>
+                              <div class="button_holder">
+                                <a class="enroll-button" href="/calendar">Training Calendar</a>
+                                <br>
+                              </div>
+                            </div>
+                        </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -218,7 +280,7 @@ $is_page_builder_used = et_pb_is_pagebuilder_used( get_the_ID() ); ?>
                     <div class="offer-dec classroom_resources">
                       <h5>Mindfulness & the Senses Exercises</h5>
 
-                    <p >
+                    <p class="open_sans">
                       9 simple exercises that set a great foundation for a mindfulness practice, and promote relaxation for your body and mind.
                     </p>
                   </div>
@@ -235,9 +297,8 @@ $is_page_builder_used = et_pb_is_pagebuilder_used( get_the_ID() ); ?>
                     <div class="offer-dec classroom_resources">
                       <h5>Yoga Moment Videos</h5>
 
-                    <p>
-                      Subscribe to the laLa wellness YouTube channel for short, weekly videos on how to practice and share yoga poses with kids, meditations and mindfulness exercises.
-                    </p>
+                    <p class="open_sans">
+                      Subscribe to the laLa wellness YouTube channel for short, weekly videos on how to practice and share yoga poses, meditations and mindfulness exercises with kids.                    </p>
                   </div>
                   <a class="enroll-button" href="https://www.youtube.com/channel/UCSQqtvmfYHKeuOkbbQXdVFw">See the videos</a>
                   </div>
@@ -252,7 +313,7 @@ $is_page_builder_used = et_pb_is_pagebuilder_used( get_the_ID() ); ?>
                     <div class="offer-dec classroom_resources">
                       <h5>Kids Yoga Class Inspiration</h5>
 
-                    <p>
+                    <p class="open_sans">
                       Wanting to share yoga with your kids but not sure where to start? Access the laLa class plans to help you get started!
                     </p>
                   </div>
@@ -271,10 +332,10 @@ $is_page_builder_used = et_pb_is_pagebuilder_used( get_the_ID() ); ?>
 
             <div class="col-md-12 center padding20 offers-top">
               <div class="col-md-12 center padding20">
-                  <h2 class="center head-title">Subscribe For More </h2>
+                  <h2 style="padding-bottom: 0px;" class="center head-title">Subscribe For More </h2>
               </div>
               <img class="subscribe_image" src="http://localhost:3338/wp-content/themes/Divi3/images/about-photo2.jpg" alt="" />
-              <p>Love what you see and excited for more? <br> Subscribe to be the first to know when new resources and workshops become available!
+              <p class="open_sans">Love what you see and excited for more? <br> Subscribe to be the first to know when new resources and workshops become available!
               <br><br>
 
             </div>
@@ -379,83 +440,73 @@ $is_page_builder_used = et_pb_is_pagebuilder_used( get_the_ID() ); ?>
         <section class="regular slider">
           <div>
 
-            <div class="slider_text">
-              “We couldn’t stop talking about [the kids yoga workshop] today.
+            <div class="slider_text open_sans">
+              “We couldn’t stop talking about [the kids yoga workshop] today."
                   It was thoroughly enjoyed by all of us.”
             </div>
             <br>
-            <div class="slider_author">
+            <div class="slider_author open_sans">
               Milena O. Director of Busy Hands n’ Minds Childcare Centre
             </div>
 
           </div>
 
-          <div>
-            <div class="slider_text">
-              “All of your poses and tips were so helpful and my children loved it… now asking me when I’m going to do yoga again!”
-            </div>
-            <br>
-            <div class="slider_author">
 
-                Adrianne S. Educator Retreat Participant
-            </div>
-
-          </div>
 
 
           <div>
-            <div class="slider_text">
-        “All of your poses and tips were so helpful and my children loved it… now asking me when I’m going to do yoga again!
+            <div class="slider_text open_sans">
+        “Thank you so much for the amazing workshop at the Lifelong Learning Conference… It was just so refreshing and wonderful to go through the self-reflection process."
             </div>
             <br>
-            <div class="slider_author">
+            <div class="slider_author open_sans">
                Adrianne S. Intro to All Things Kids Yoga Participant
             </div>
           </div>
 
 
           <div>
-            <div class="slider_text">
+            <div class="slider_text open_sans">
 “Today was a wonderful experience as I was able to explore different poses and re-introduce and awaken muscles I haven’t used in a while.”            </div>
             <br>
-            <div class="slider_author">
-               Sonia Barrett, Yoga & Mindfulness for Self Care Participant
+            <div class="slider_author open_sans">
+               Sonia B, Yoga & Mindfulness for Self Care Participant
             </div>
           </div>
 
 
           <div>
-            <div class="slider_text">
+            <div class="slider_text open_sans">
             “Lisa comes prepared for an enthusiastic session filled with knowledge, visuals and takeaways. She has excellent communication skills and her positive energy is high and contagious.”
             </div>
             <br>
-            <div class="slider_author">
+            <div class="slider_author open_sans">
         Jackie J. RECE
         </div>
 
           </div>
           <div>
-            <div class="slider_text">
+            <div class="slider_text open_sans">
               “Lisa has inspired me to become a better educator through what I have learned and I would recommend anyone to attend her training sessions.”
             </div>
             <br>
-            <div class="slider_author">
+            <div class="slider_author open_sans">
                 Jackie J. RECE
                 </div>
 
           </div>
           <div>
-            <div class="slider_text">
+            <div class="slider_text open_sans">
               “If you ever have a chance to go to one of Lisa’s workshops or bring her to your school or centre, jump on that opportunity!”            </div>
             <br>
-            <div class="slider_author">Shannon Andrews, BA, BEd, OCT
+            <div class="slider_author open_sans">Shannon Andrews, BA, BEd, OCT
             </div>
 
           </div>
           <div>
-            <div class="slider_text">
-              “The impact on my class was undeniable. My students were so much more calm and able to work through problems… The level of engagement was unprecedented.”            <br>
-            <div class="slider_author">Shannon Andrews, BA, BEd, OCT
+            <div class="slider_text open_sans">
+              “The benefits that I received through Lisa’s teachings were to be more aware and take the time needed to recharge, which helps me be my best both as an individual and as an educator for the children.”            <br>
+            <div class="slider_author open_sans">Shannon Andrews, BA, BEd, OCT
             </div>
 
           </div>
@@ -463,10 +514,10 @@ $is_page_builder_used = et_pb_is_pagebuilder_used( get_the_ID() ); ?>
         </div>
 
           <div>
-            <div class="slider_text">
-        “The impact on my class was undeniable. My students were so much more calm and able to work through problems… The level of engagement was unprecedented.”     </div>
+            <div class="slider_text open_sans">
+        “The benefits that I received through Lisa’s teachings were to be more aware and take the time needed to recharge, which helps me be my best both as an individual and as an educator for the children.”     </div>
 
-            <div class="slider_author">  <br> Marisa Naccarrato, RECE
+            <div class="slider_author open_sans">  <br> Marisa Naccarrato, RECE
             </div>
 
           </div>
@@ -475,11 +526,11 @@ $is_page_builder_used = et_pb_is_pagebuilder_used( get_the_ID() ); ?>
 
 
           <div>
-            <div class="slider_text">
+            <div class="slider_text open_sans">
               “Lisa is very engaging and accommodating. A great intro to the yoga experience.”
             </div>
             <br>
-            <div class="slider_author">  Sarah Woon-Fat, Yoga & Mindfulness for Self Care Participant
+            <div class="slider_author open_sans">  Sarah Woon-Fat, Yoga & Mindfulness for Self Care Participant
             </div>
 
           </div>
