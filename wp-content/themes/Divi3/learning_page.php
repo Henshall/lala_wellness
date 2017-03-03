@@ -250,7 +250,7 @@ $is_page_builder_used = et_pb_is_pagebuilder_used( get_the_ID() ); ?>
                             </div>
                             <div class="offer-boxinner center">
                                 <div class="offer-dec note">
-                                  <h5>Mindful Mornings for Educators</h5>
+                                  <h5>laLa Learning Space Facebook Group</h5>
 
                                 <p>
                                   Connect with other mindful teachers & be supported in your yoga and mindfulness practice (both for you and your students)
