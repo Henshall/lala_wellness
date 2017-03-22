@@ -4,6 +4,7 @@ define('WP_CACHE', true); // Added by W3 Total Cache
 
 
 
+
 /**
  * The base configuration for WordPress
  *
@@ -25,7 +26,11 @@ define('WP_CACHE', true); // Added by W3 Total Cache
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'wordpress_fb5ckb35hk');
+// define('DB_NAME', 'wordpress_fb5ckb35hk');
+define('DB_NAME', 'lalawellness2');
+
+
+
 
 /** MySQL database username */
 define('DB_USER', 'root');
@@ -68,7 +73,10 @@ define('NONCE_SALT', 'bO|@hFDe}aWTO)z*Dky!|&<tk%gBIOCKN;Gomdr+-?TaqZbB+fmJ=)IFtJ
  * You can have multiple installations in one database if you give each
  * a unique prefix. Only numbers, letters, and underscores please!
  */
-$table_prefix = 'wp_apyo_';
+$table_prefix = 'wp_90dmb3sj1a_';
+
+
+
 
 /**
  * For developers: WordPress debugging mode.

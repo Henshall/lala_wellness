@@ -11,10 +11,34 @@ font-family: Delius-Regular;
  src: url('Delius-Regular.ttf');
 
 }
+.yl-header{
+  background-color: rgb(251, 251, 251)!important;
+}
+
+.vtitle{
+color: white!important;
+font-family: Delius-Regular!important;
+
+}
+
+.delius{
+  font-family: 'Delius-Regular'!important;
+
+}
+
+
+#top-menu-nav ul li a{
+  font-family: 'Delius-Regular'!important;
+
+}
 
 .open_sans{
 font-family: 'Open Sans'!important;
 
+}
+
+.sfsiplus_footerLnk{
+  display: none!important;
 }
 
 .cal-title{
@@ -61,15 +85,6 @@ margin-top: 79px!important;
 
 
 
-
-#vlog{
-  width: 36vw;
-  /* height: 81vw; */
-  margin: 0 auto;
-  /* max-height: 80vh; */
-  margin-bottom: 2vw;
-
-}
 
 
 

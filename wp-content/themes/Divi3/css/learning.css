@@ -15,6 +15,15 @@
 
    }
 
+   #main-footer {
+       background-color: #222;
+       display: none!important;
+   }
+
+.delius{
+  font-family: 'Delius-Regular'!important;
+
+}
 .open_sans{
 font-family: 'Open Sans'!important;
 

@@ -75,19 +75,19 @@ $is_page_builder_used = et_pb_is_pagebuilder_used( get_the_ID() ); ?>
 </head>
 
 <div class="image_container">
-  <img class="image" src="http://lalawellness.org/wp-content/uploads/2017/02/background_image_small.jpg" alt=""  />
+  <img class="image" src="http://localhost:3338/wp-content/uploads/2017/02/background_image_small.jpg" alt=""  />
 
 </div>
 
 
 <div class="container">
   <div class="logo_div">
-    <img id= "logo_leaf" src="http://lalawellness.org/wp-content/uploads/2017/02/laLa-wellness-revamped-logo-2016-FINAL-white-tag-centered.png" alt="" width="300" height="232" class="alignnone size-medium wp-image-531" />
+    <img id= "logo_leaf" src="http://localhost:3338/wp-content/uploads/2017/02/laLa-wellness-revamped-logo-2016-FINAL-white-tag-centered.png" alt="" width="300" height="232" class="alignnone size-medium wp-image-531" />
   </div>
 
 <div class="button_div"><br><br>
 
-  <form target="_blank" action="/kidsyoga">
+  <form target="_blank" action="/yoga">
     <input class="button" type="submit" value="Kids Yoga Classes" />
 </form>
 <form target="_blank" action="/learning">
@@ -100,16 +100,16 @@ $is_page_builder_used = et_pb_is_pagebuilder_used( get_the_ID() ); ?>
   ©2016 laLa wellness
 </div>
 <div class="pop_up1">
-  Looking for <br> <a target="_blank" style="color: white;" href="/kidsyoga"><u>kids yoga programs</u></a> <br> for your school or <br> daycare? Click Here!
+  Looking for <br> <a target="_blank" style="color: white;" href="/yoga"><u>kids yoga programs</u></a> <br> for your school or <br> daycare? Click Here!
 
 </div>
-<img class="left " src="http://lalawellness.org/wp-content/uploads/2017/02/laLa-landing-pg-2017-arrow-left.png" alt="" width="300" height="300" />
+<img class="left " src="http://localhost:3338/wp-content/uploads/2017/02/laLa-landing-pg-2017-arrow-left.png" alt="" width="300" height="300" />
 
 <div class="pop_up2">
   Looking for <br><a target="_blank" style="color: white;" href="/learning"><u>PD and resources</u></a>  <br> for you and your <br> class? Click Here!
 
 </div>
-<img class="right" src="http://lalawellness.org/wp-content/uploads/2017/02/laLa-landing-pg-2017-arrow-right.png" alt="" width="300" height="300" />
+<img class="right" src="http://localhost:3338/wp-content/uploads/2017/02/laLa-landing-pg-2017-arrow-right.png" alt="" width="300" height="300" />
 
 
 </div>
